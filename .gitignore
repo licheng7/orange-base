@@ -1,0 +1,7 @@
+# Project exclude paths
+/all-test/target/
+/kafka-test/target/
+/mongo-test/target/
+/redis-test/target/
+/shell-test/target/
+/web-test/target/

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46aa2bb7-0d4b-4eb9-8183-aef0447e2354" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Downloads/开发工具/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/Downloads/开发工具/apache-maven-3.5.3/conf/settings_licheng1.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AR0W2fl0rUMwl92dqRhd5YhHJM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shell-test/src/test/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/shell-test/src/test/resources" />
+      <recent name="$PROJECT_DIR$/yaml-test/src/main/resources" />
+      <recent name="$PROJECT_DIR$/shell-test/src/main/resources" />
+      <recent name="$PROJECT_DIR$/mongo-test/src/main/resources" />
+      <recent name="$PROJECT_DIR$/web-test/ops/docker" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web-test/ops/docker" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.orange.web" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.orange.shell.infrastucture.shell" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.orange.mongo.api" />
+      <recent name="org.orange.mongo" />
+      <recent name="org.orange.web.api" />
+      <recent name="org.orange.kafka.api" />
+      <recent name="org.orange.api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ShellUtilTest.callOne4Script">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="MyPublisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.orange.all.reactor.MyPublisher" />
+      <module name="all-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.orange.all.reactor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="all-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.orange.all.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.orange.all" />
+      <option name="MAIN_CLASS_NAME" value="org.orange.all.NumberTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellUtilTest.callOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shell-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.orange.shell.infrastucture.shell.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.orange.shell.infrastucture.shell" />
+      <option name="MAIN_CLASS_NAME" value="org.orange.shell.infrastucture.shell.ShellUtilTest" />
+      <option name="METHOD_NAME" value="callOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellUtilTest.callOne4Command" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shell-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.orange.shell.infrastucture.shell.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.orange.shell.infrastucture.shell" />
+      <option name="MAIN_CLASS_NAME" value="org.orange.shell.infrastucture.shell.ShellUtilTest" />
+      <option name="METHOD_NAME" value="callOne4Command" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellUtilTest.callOne4Script" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shell-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.orange.shell.infrastucture.shell.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.orange.shell.infrastucture.shell" />
+      <option name="MAIN_CLASS_NAME" value="org.orange.shell.infrastucture.shell.ShellUtilTest" />
+      <option name="METHOD_NAME" value="callOne4Script" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTestControllerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.orange.web.WebTestControllerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShellUtilTest.callOne4Script" />
+        <item itemvalue="JUnit.ShellUtilTest.callOne4Command" />
+        <item itemvalue="JUnit.ShellUtilTest.callOne" />
+        <item itemvalue="Application.MyPublisher" />
+        <item itemvalue="JUnit.NumberTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46aa2bb7-0d4b-4eb9-8183-aef0447e2354" name="Default Changelist" comment="" />
+      <created>1654957118723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654957118723</updated>
+      <workItem from="1654957120380" duration="9402000" />
+      <workItem from="1655122463992" duration="1417000" />
+      <workItem from="1655174247405" duration="14295000" />
+      <workItem from="1655880559260" duration="48506000" />
+      <workItem from="1656482829917" duration="19892000" />
+      <workItem from="1658127399829" duration="12792000" />
+      <workItem from="1660102805151" duration="17262000" />
+      <workItem from="1661313120455" duration="3828000" />
+      <workItem from="1665643316435" duration="30363000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-test/src/main/java/org/orange/kafka/infrastucture/kafka/consumer/Consumer1.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.5.14.RELEASE/spring-kafka-2.5.14.RELEASE-sources.jar!/org/springframework/kafka/listener/KafkaMessageListenerContainer.java</url>
+          <line>1245</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.5.14.RELEASE/spring-kafka-2.5.14.RELEASE-sources.jar!/org/springframework/kafka/listener/KafkaMessageListenerContainer.java</url>
+          <line>1239</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-test/src/main/java/org/orange/kafka/infrastucture/kafka/consumer/Consumer1.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.2.6.RELEASE/spring-messaging-5.2.6.RELEASE-sources.jar!/org/springframework/messaging/handler/invocation/InvocableHandlerMethod.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/2.5.14.RELEASE/spring-kafka-2.5.14.RELEASE-sources.jar!/org/springframework/kafka/listener/SeekUtils.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.3.0.RELEASE/lettuce-core-5.3.0.RELEASE-sources.jar!/io/lettuce/core/AbstractRedisAsyncCommands.java</url>
+          <line>470</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.3.0.RELEASE/spring-data-redis-2.3.0.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultValueOperations.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.3.0.RELEASE/lettuce-core-5.3.0.RELEASE-sources.jar!/io/lettuce/core/internal/AbstractInvocationHandler.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.49.Final/netty-transport-4.1.49.Final-sources.jar!/io/netty/channel/AbstractChannelHandlerContext.java</url>
+          <line>1066</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="offerTask(task)" />
+        <watch expression="channelFuture" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+server:
+  port: 8704
+
+spring:
+  application:
+    name: web-test-controller
+    version: 1.0.0

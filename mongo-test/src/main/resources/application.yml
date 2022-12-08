@@ -1,0 +1,13 @@
+server:
+  port: 8717
+
+spring:
+  application:
+    name: mongo-test-controller
+    version: 1.0.0
+  data:
+    mongodb:
+      authentication-database: admin
+      host: 192.168.212.239
+      port: 27017
+      database: test_db

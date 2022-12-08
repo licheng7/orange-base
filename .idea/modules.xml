@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/all-test/all-test.iml" filepath="$PROJECT_DIR$/all-test/all-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-test/kafka-test.iml" filepath="$PROJECT_DIR$/kafka-test/kafka-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongo-test/mongo-test.iml" filepath="$PROJECT_DIR$/mongo-test/mongo-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orange-base.iml" filepath="$PROJECT_DIR$/orange-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-test/redis-test.iml" filepath="$PROJECT_DIR$/redis-test/redis-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-test/security-test.iml" filepath="$PROJECT_DIR$/security-test/security-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shell-test/shell-test.iml" filepath="$PROJECT_DIR$/shell-test/shell-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-test/web-test.iml" filepath="$PROJECT_DIR$/web-test/web-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yaml-test/yaml-test.iml" filepath="$PROJECT_DIR$/yaml-test/yaml-test.iml" />
+    </modules>
+  </component>
+</project>

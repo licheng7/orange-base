@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kafka-test" />
+        <module name="all-test" />
+        <module name="redis-test" />
+        <module name="shell-test" />
+        <module name="mongo-test" />
+        <module name="yaml-test" />
+        <module name="web-test" />
+        <module name="security-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="all-test" target="8" />
+      <module name="kafka-test" target="8" />
+      <module name="mongo-test" target="8" />
+      <module name="orange-base" target="8" />
+      <module name="redis-test" target="8" />
+      <module name="security-test" target="8" />
+      <module name="shell-test" target="8" />
+      <module name="web-test" target="8" />
+      <module name="yaml-test" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="all-test" options="-parameters" />
+      <module name="kafka-test" options="-parameters" />
+      <module name="mongo-test" options="-parameters" />
+      <module name="orange-base" options="-parameters" />
+      <module name="redis-test" options="-parameters" />
+      <module name="security-test" options="-parameters" />
+      <module name="shell-test" options="-parameters" />
+      <module name="web-test" options="-parameters" />
+      <module name="yaml-test" options="-parameters" />
+    </option>
+  </component>
+</project>
